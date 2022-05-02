@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcus!
-- 👀 I’m interested in getting started!
-- 🌱 I’m currently learning how many things I don't know
-- 💞️ I’m looking to collaborate on real beginner stuff
+- 👀 I’m interested in developing React apps!
+- 🌱 I’m currently learning how to properly write tests
+- 💞️ I’m looking to collaborate on anything with React
 - 📫 How to reach me : mghiring@gmail.com
 
 <!---
