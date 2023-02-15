@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus!
 - 👀 I’m interested in developing React apps!
-- 🌱 I’m currently learning how to build a backend using postgres/express
+- 🌱 I’m currently studying to achieve CSS mastery
 - 💞️ I’m looking to collaborate on anything with React
 - 📫 How to reach me : mghiring@gmail.com
 
